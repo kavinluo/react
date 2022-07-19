@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 2;
+}
+body {
+  padding:  30px;
+}
+
+ul {
+  width: 300px;
+}
+ul li {
+  border-bottom: 1px solid #ddd;
+}
